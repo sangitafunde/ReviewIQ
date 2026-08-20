@@ -121,7 +121,7 @@ export default function SearchPage() {
           </div>
           <Button 
             className="w-full lg:col-span-1 bg-indigo-600 hover:bg-indigo-700 transition-all hover:scale-105"
-            onClick={handleSearch}
+            onClick={() => handleSearch()}
             disabled={isSearching}
           >
             {isSearching ? <Loader2 className="h-4 w-4 animate-spin" /> : "Search"}
