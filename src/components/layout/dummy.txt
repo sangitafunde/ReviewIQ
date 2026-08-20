@@ -1,0 +1,4 @@
+"use client";
+
+import Link from "Link"; // wait, next/link
+// I will fix the imports below.

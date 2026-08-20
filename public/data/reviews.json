@@ -1,0 +1,422 @@
+[
+  {
+    "id": "r1",
+    "rating": 3,
+    "review": "Average experience. Expected better seafood given the reviews.",
+    "date": "2026-03-28",
+    "author": "David Davis"
+  },
+  {
+    "id": "r2",
+    "rating": 3,
+    "review": "Decent place. The steak could use a bit more seasoning.",
+    "date": "2026-04-02",
+    "author": "Thomas Miller"
+  },
+  {
+    "id": "r3",
+    "rating": 4,
+    "review": "The dessert here is incredible. Definitely one of the best I've ever had.",
+    "date": "2026-03-07",
+    "author": "Joseph Miller"
+  },
+  {
+    "id": "r4",
+    "rating": 5,
+    "review": "This is our go-to spot for waiting time. Always consistent and delicious.",
+    "date": "2026-03-22",
+    "author": "Barbara Lopez"
+  },
+  {
+    "id": "r5",
+    "rating": 4,
+    "review": "The seafood here is incredible. Definitely one of the best I've ever had.",
+    "date": "2026-08-10",
+    "author": "Jessica Miller"
+  },
+  {
+    "id": "r6",
+    "rating": 5,
+    "review": "Really enjoyed the steak. Everything was cooked to perfection and the service was quick.",
+    "date": "2026-04-24",
+    "author": "Karen Miller"
+  },
+  {
+    "id": "r7",
+    "rating": 4,
+    "review": "Great ambience and lovely ambience. Highly recommend for a date night.",
+    "date": "2026-03-29",
+    "author": "Elizabeth Taylor"
+  },
+  {
+    "id": "r8",
+    "rating": 4,
+    "review": "Great steak and lovely ambience. Highly recommend for a date night.",
+    "date": "2026-06-23",
+    "author": "Jessica Lopez"
+  },
+  {
+    "id": "r9",
+    "rating": 4,
+    "review": "The steak here is incredible. Definitely one of the best I've ever had.",
+    "date": "2026-08-01",
+    "author": "William Martin"
+  },
+  {
+    "id": "r10",
+    "rating": 5,
+    "review": "We loved the waiting time! The staff was super friendly and made our evening special.",
+    "date": "2026-08-06",
+    "author": "Thomas Garcia"
+  },
+  {
+    "id": "r11",
+    "rating": 4,
+    "review": "The service here is incredible. Definitely one of the best I've ever had.",
+    "date": "2026-07-27",
+    "author": "Barbara Davis"
+  },
+  {
+    "id": "r12",
+    "rating": 5,
+    "review": "A hidden gem. The service blew us away. 10/10.",
+    "date": "2026-05-05",
+    "author": "Patricia Davis"
+  },
+  {
+    "id": "r13",
+    "rating": 4,
+    "review": "Really enjoyed the coffee. Everything was cooked to perfection and the service was quick.",
+    "date": "2026-07-02",
+    "author": "Robert Smith"
+  },
+  {
+    "id": "r14",
+    "rating": 4,
+    "review": "Excellent waiting time, great atmosphere. Would definitely recommend to anyone visiting.",
+    "date": "2026-04-03",
+    "author": "David Thomas"
+  },
+  {
+    "id": "r15",
+    "rating": 5,
+    "review": "Excellent sushi, great atmosphere. Would definitely recommend to anyone visiting.",
+    "date": "2026-04-13",
+    "author": "Karen Rodriguez"
+  },
+  {
+    "id": "r16",
+    "rating": 4,
+    "review": "We loved the burger! The staff was super friendly and made our evening special.",
+    "date": "2026-04-24",
+    "author": "Michael Davis"
+  },
+  {
+    "id": "r17",
+    "rating": 5,
+    "review": "Excellent steak, great atmosphere. Would definitely recommend to anyone visiting.",
+    "date": "2026-06-11",
+    "author": "William Wilson"
+  },
+  {
+    "id": "r18",
+    "rating": 1,
+    "review": "Very disappointed with the service. It was cold and tasteless.",
+    "date": "2026-04-30",
+    "author": "Karen Smith"
+  },
+  {
+    "id": "r19",
+    "rating": 2,
+    "review": "Very disappointed with the pasta. It was cold and tasteless.",
+    "date": "2026-05-23",
+    "author": "James Davis"
+  },
+  {
+    "id": "r20",
+    "rating": 5,
+    "review": "Great coffee and lovely ambience. Highly recommend for a date night.",
+    "date": "2026-05-10",
+    "author": "Karen Smith"
+  },
+  {
+    "id": "r21",
+    "rating": 5,
+    "review": "A hidden gem. The sushi blew us away. 10/10.",
+    "date": "2026-07-06",
+    "author": "Michael Brown"
+  },
+  {
+    "id": "r22",
+    "rating": 4,
+    "review": "Really enjoyed the coffee. Everything was cooked to perfection and the service was quick.",
+    "date": "2026-07-28",
+    "author": "Sarah Moore"
+  },
+  {
+    "id": "r23",
+    "rating": 4,
+    "review": "Excellent coffee, great atmosphere. Would definitely recommend to anyone visiting.",
+    "date": "2026-07-25",
+    "author": "Michael Brown"
+  },
+  {
+    "id": "r24",
+    "rating": 5,
+    "review": "This is our go-to spot for seafood. Always consistent and delicious.",
+    "date": "2026-02-24",
+    "author": "Robert Hernandez"
+  },
+  {
+    "id": "r25",
+    "rating": 4,
+    "review": "Great steak and lovely ambience. Highly recommend for a date night.",
+    "date": "2026-05-24",
+    "author": "Sarah Martin"
+  },
+  {
+    "id": "r26",
+    "rating": 5,
+    "review": "Really enjoyed the sushi. Everything was cooked to perfection and the service was quick.",
+    "date": "2026-07-31",
+    "author": "Joseph Miller"
+  },
+  {
+    "id": "r27",
+    "rating": 1,
+    "review": "Very disappointed with the service. It was cold and tasteless.",
+    "date": "2026-07-10",
+    "author": "David Anderson"
+  },
+  {
+    "id": "r28",
+    "rating": 5,
+    "review": "Excellent tacos, great atmosphere. Would definitely recommend to anyone visiting.",
+    "date": "2026-06-28",
+    "author": "William Miller"
+  },
+  {
+    "id": "r29",
+    "rating": 2,
+    "review": "Overpriced. The ambience is definitely not worth the money.",
+    "date": "2026-06-26",
+    "author": "Susan Moore"
+  },
+  {
+    "id": "r30",
+    "rating": 4,
+    "review": "This is our go-to spot for dessert. Always consistent and delicious.",
+    "date": "2026-07-01",
+    "author": "Richard Wilson"
+  },
+  {
+    "id": "r31",
+    "rating": 4,
+    "review": "We loved the coffee! The staff was super friendly and made our evening special.",
+    "date": "2026-05-05",
+    "author": "Charles Miller"
+  },
+  {
+    "id": "r32",
+    "rating": 5,
+    "review": "The pizza here is incredible. Definitely one of the best I've ever had.",
+    "date": "2026-05-31",
+    "author": "William Miller"
+  },
+  {
+    "id": "r33",
+    "rating": 1,
+    "review": "Very disappointed with the dessert. It was cold and tasteless.",
+    "date": "2026-06-28",
+    "author": "Robert Gonzalez"
+  },
+  {
+    "id": "r34",
+    "rating": 4,
+    "review": "Great coffee and lovely ambience. Highly recommend for a date night.",
+    "date": "2026-07-27",
+    "author": "Robert Wilson"
+  },
+  {
+    "id": "r35",
+    "rating": 2,
+    "review": "Very disappointed with the steak. It was cold and tasteless.",
+    "date": "2026-05-13",
+    "author": "Charles Smith"
+  },
+  {
+    "id": "r36",
+    "rating": 5,
+    "review": "This is our go-to spot for coffee. Always consistent and delicious.",
+    "date": "2026-03-02",
+    "author": "Richard Miller"
+  },
+  {
+    "id": "r37",
+    "rating": 4,
+    "review": "The brunch here is incredible. Definitely one of the best I've ever had.",
+    "date": "2026-08-17",
+    "author": "James Smith"
+  },
+  {
+    "id": "r38",
+    "rating": 3,
+    "review": "The pizza was okay, nothing special but not bad either.",
+    "date": "2026-08-15",
+    "author": "Joseph Lopez"
+  },
+  {
+    "id": "r39",
+    "rating": 4,
+    "review": "Excellent burger, great atmosphere. Would definitely recommend to anyone visiting.",
+    "date": "2026-07-31",
+    "author": "Jessica Gonzalez"
+  },
+  {
+    "id": "r40",
+    "rating": 5,
+    "review": "The brunch here is incredible. Definitely one of the best I've ever had.",
+    "date": "2026-08-17",
+    "author": "Elizabeth Rodriguez"
+  },
+  {
+    "id": "r41",
+    "rating": 4,
+    "review": "A hidden gem. The pizza blew us away. 10/10.",
+    "date": "2026-08-06",
+    "author": "David Williams"
+  },
+  {
+    "id": "r42",
+    "rating": 2,
+    "review": "Terrible service and the pizza was subpar. Avoid this place.",
+    "date": "2026-05-02",
+    "author": "Robert Moore"
+  },
+  {
+    "id": "r43",
+    "rating": 5,
+    "review": "The pasta here is incredible. Definitely one of the best I've ever had.",
+    "date": "2026-05-09",
+    "author": "Karen Thomas"
+  },
+  {
+    "id": "r44",
+    "rating": 5,
+    "review": "Excellent tacos, great atmosphere. Would definitely recommend to anyone visiting.",
+    "date": "2026-03-09",
+    "author": "Robert Johnson"
+  },
+  {
+    "id": "r45",
+    "rating": 5,
+    "review": "Great service and lovely ambience. Highly recommend for a date night.",
+    "date": "2026-04-10",
+    "author": "Robert Miller"
+  },
+  {
+    "id": "r46",
+    "rating": 5,
+    "review": "Great service and lovely ambience. Highly recommend for a date night.",
+    "date": "2026-04-05",
+    "author": "Barbara Lopez"
+  },
+  {
+    "id": "r47",
+    "rating": 3,
+    "review": "It's fine if you're in a rush, but the sushi is just average.",
+    "date": "2026-06-09",
+    "author": "Jessica Moore"
+  },
+  {
+    "id": "r48",
+    "rating": 5,
+    "review": "Great pizza and lovely ambience. Highly recommend for a date night.",
+    "date": "2026-07-27",
+    "author": "Michael Brown"
+  },
+  {
+    "id": "r49",
+    "rating": 4,
+    "review": "Excellent steak, great atmosphere. Would definitely recommend to anyone visiting.",
+    "date": "2026-07-09",
+    "author": "David Williams"
+  },
+  {
+    "id": "r50",
+    "rating": 5,
+    "review": "Excellent ambience, great atmosphere. Would definitely recommend to anyone visiting.",
+    "date": "2026-02-22",
+    "author": "Sarah Moore"
+  },
+  {
+    "id": "r51",
+    "rating": 4,
+    "review": "This is our go-to spot for service. Always consistent and delicious.",
+    "date": "2026-06-14",
+    "author": "Elizabeth Martin"
+  },
+  {
+    "id": "r52",
+    "rating": 2,
+    "review": "Overpriced. The tacos is definitely not worth the money.",
+    "date": "2026-05-31",
+    "author": "Richard Gonzalez"
+  },
+  {
+    "id": "r53",
+    "rating": 1,
+    "review": "Very disappointed with the tacos. It was cold and tasteless.",
+    "date": "2026-08-01",
+    "author": "James Taylor"
+  },
+  {
+    "id": "r54",
+    "rating": 3,
+    "review": "It's fine if you're in a rush, but the seafood is just average.",
+    "date": "2026-05-19",
+    "author": "William Miller"
+  },
+  {
+    "id": "r55",
+    "rating": 3,
+    "review": "Decent place. The burger could use a bit more seasoning.",
+    "date": "2026-03-02",
+    "author": "Mary Rodriguez"
+  },
+  {
+    "id": "r56",
+    "rating": 1,
+    "review": "Very disappointed with the coffee. It was cold and tasteless.",
+    "date": "2026-03-09",
+    "author": "Karen Anderson"
+  },
+  {
+    "id": "r57",
+    "rating": 5,
+    "review": "Fantastic experience! The burger was fresh and very flavorful.",
+    "date": "2026-05-30",
+    "author": "Mary Wilson"
+  },
+  {
+    "id": "r58",
+    "rating": 3,
+    "review": "Average experience. Expected better steak given the reviews.",
+    "date": "2026-03-11",
+    "author": "David Anderson"
+  },
+  {
+    "id": "r59",
+    "rating": 5,
+    "review": "A hidden gem. The pasta blew us away. 10/10.",
+    "date": "2026-04-30",
+    "author": "Patricia Jones"
+  },
+  {
+    "id": "r60",
+    "rating": 5,
+    "review": "Great brunch and lovely ambience. Highly recommend for a date night.",
+    "date": "2026-08-12",
+    "author": "Joseph Jones"
+  }
+]
